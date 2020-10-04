@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "_id": "book1",
+        "image": "/images/book1.jpg",
+        "title": "Lost and Wanted",
+        "description": "Lost and Wanted has a lot of great themes - love, grief, women in science, friendship, single parenthood, and afterlife. Many times, it works, but other times the science was too much. The strongest part of the novel was the friendship between the two female characters. Their friendship, like many we all have, go through phases and the author details it well. Other parts of the book I just wanted to skim through to get back to the interesting parts. It's just okay",
+        "genre": ["Domestic"],
+        "price": 16.95
+      },
+      {
+        "_id": "book2",
+        "image": "/images/book2.jpg",
+        "title": "The Book of Lost Names",
+        "description": "Inspired by an astonishing true story from World War II, a young woman with a talent for forgery helps hundreds of Jewish children flee the Nazis in this unforgettable historical novel from the international bestselling author of the “epic and heart-wrenching World War II tale” (Alyson Noel, #1 New York Times bestselling author) The Winemaker’s Wife.",
+        "genre": ["Historic"],
+        "price": 14.99
+      },
+      {
+        "_id": "book3",
+        "image": "/images/book3.jpg",
+        "title": "The Paying Guests",
+        "description": "It is 1922, and London is tense. Ex-servicemen are disillusioned; the out-of-work and the hungry are demanding change. And in South London, in a genteel Camberwell villa—a large, silent house now bereft of brothers, husband, and even servants—life is about to be transformed, as impoverished widow Mrs. Wray and her spinster daughter, Frances, are obliged to take in lodgers. With the arrival of Lilian and Leonard Barber, a modern young couple of the “clerk class,” the routines of the house will be shaken up in unexpected ways. Little do the Wrays know just how profoundly their new tenants will alter the course of Frances’s life—or, as passions mount and frustration gathers, how far-reaching, and how devastating, the disturbances will be.",
+        "genre": ["Historic"],
+        "price": 3.61
+      },
+      {
+        "_id": "book4",
+        "image": "/images/book4.jpg",
+        "title": "From Here to Eternity",
+        "description": "Army veteran James Jones, who was present during the attack on Pearl Harbor, fills the pages with his own memories, brought to life through fictional protagonist Private Robert Prewitt. On the cusp of manhood, he and his brotherhood are catapulted into the unknown on that infamous day. From Here to Eternity has been adapted into both an Academy Award-winning film and also into a musical.",
+        "genre": ["Psychological"],
+        "price": 11.99
+      },
+      {
+        "_id": "book5",
+        "image": "/images/book5.jpg",
+        "title": "The Young Lions",
+        "description": "The complexities of war are not lost on Irwin Shaw’s New York Times bestseller. A tapestry composed of the experiences of three men, the story is told through Christian, a German who joins Hitler’s army; Noah, a Jew who enlists in the U.S. Army; and Michael, a U.S. soldier looking for purpose. Severely neglected, this is one wartime beast that deserves your attention.",
+        "genre": ["Psychological"],
+        "price": 13.49
+      },
+      {
+        "_id": "book6",
+        "image": "/images/book6.jpg",
+        "title": "Dragon Seed",
+        "description": "Originally published in 1942, Nobel Prize Winning-author Pearl S. Buck’s story follows World War II from a Chinese perspective. Raised in China herself, Buck writes of the pre-Pearl Harbor Japanese invasion into China’s capital in 1937 and the “Rape of Nanking.” And it all unfolds through the viewpoint of a humble farming family whose will to survive is stronger than the time’s violence is horrific.",
+        "genre": ["Historic"],
+        "price": 10.99
+      }
+    ]
+  }
