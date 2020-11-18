@@ -1,4 +1,4 @@
-# React Shopping Cart
+# React Book Store With Node.JS
 
 ## Step 1: Create React App
 
